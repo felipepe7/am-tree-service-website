@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://amtreelandscape.com/sitemap.xml
